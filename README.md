@@ -11,4 +11,4 @@
 - 🌍 
 
 ### Connect with me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([wwww.github.com/ymnberkay]) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](wwww.github.com/ymnberkay) 
