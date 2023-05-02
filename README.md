@@ -7,8 +7,8 @@
 
 ### ℹ️ Biography
 
-- 🏛 I am 
-- 🌍 
+- 🏛 I am studying at Kocaeli University Computer Engineering.(3. grade)
+- ⚡ Fun fact: I love to swim and play guitar.
 
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
