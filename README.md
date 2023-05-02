@@ -15,5 +15,5 @@
 
 ### 📝 GitHub Stats
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ymnberkay&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ymnberkay)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ymnberkay&layout=compact"/>
 
