@@ -7,7 +7,7 @@
 
 ### ℹ️ Biography
 
-- 🏛 I am studying at Kocaeli University Computer Engineering.(3rd grade)
+- 🏛 I am studying at Kocaeli University Computer Engineering.(4rd grade)
 - ⚡ Fun fact: I love to swim and play guitar.
 
 ### Connect with me:
