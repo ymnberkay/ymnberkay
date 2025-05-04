@@ -3,7 +3,7 @@
 
 - 💻 I'm currently working on iOS mobile application development.
 - 👯 I’m looking to collaborate with other content creators
-- 💁🏻‍♂️ I know Python, C, Java, Swift, Kotlin languages.
+- 💁🏻‍♂️ I know Swift, Kotlin, C++,  languages.
 
 ### ℹ️ Biography
 
